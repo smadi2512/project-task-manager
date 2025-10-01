@@ -1,8 +1,8 @@
 # 📌 Project Task Manager
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react)
-![Vite](https://img.shields.io/badge/Vite-4.5.14-yellow?logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4.17-skyblue?logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-4.5.14-646CFF?logo=vite)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4.17-06B6D4?logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
 
 
@@ -103,5 +103,8 @@ Open your browser at http://localhost:5173 (Vite default).
 ## 👩‍💻 Author
 
 Created by **Walaa Smadi**✨ \
-Based on a tutorial/course, but all work, styling, and enhancements were done independently. \
+Based on a tutorial/course, but all work, styling, and enhancements were done independently.
+- GitHub: [@smadi2512](https://github.com/smadi2512)
+- LinkedIn: [Walaa Smadi](https://www.linkedin.com/in/walaa-bilal-smadi/)
+
 Feel free to fork, star ⭐, and contribute!
