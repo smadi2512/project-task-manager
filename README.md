@@ -8,7 +8,10 @@
 
 A simple **React.js application** to manage projects and their tasks.
 Users can create multiple projects, add and delete tasks for each project.
-Built with **React + TailwindCSS** for a clean UI and state management using React hooks.
+
+This project started as a guided React exercise and evolved through **independent implementations**, reflecting my learning journey. While currently reflecting
+core React fundamentals, it's designed for **future enhancements and custom features**
+including persistent storage, editing data, and integrating with a backend.
 
 ---
 
@@ -103,7 +106,8 @@ Open your browser at http://localhost:5173 (Vite default).
 ## 👩‍💻 Author
 
 Created by **Walaa Smadi**✨ \
-Based on a tutorial/course, but all work, styling, and enhancements were done independently.
+Passionate React developer building modern, maintainable, scalable, performant, and user-friendly web apps.
+
 - GitHub: [@smadi2512](https://github.com/smadi2512)
 - LinkedIn: [Walaa Smadi](https://www.linkedin.com/in/walaa-bilal-smadi/)
 
